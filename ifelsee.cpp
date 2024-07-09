@@ -47,12 +47,7 @@ cout << "hasil dari perhitungan " << a << " " <<  op << " " << b << " " << "adal
 
 
 
-
-
-
-
-
-
+cout << "test commit awokwoakwoa";
 
     
 }
